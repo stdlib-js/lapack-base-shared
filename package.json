@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/lapack-base-shared",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Common symbols and type definitions shared across base LAPACK APIs.",
   "license": "Apache-2.0",
   "author": {
@@ -37,7 +37,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/blas-base-shared": "^0.1.0",
+    "@stdlib/blas-base-shared": "^0.2.0",
     "@stdlib/utils-library-manifest": "^0.2.3"
   },
   "devDependencies": {
